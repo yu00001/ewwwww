@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestGame
 {
-    class Program
-    {
+    class Program 
+    { 
         static void Main(string[] args)
         {
+
             int input = -1;
             int guess = 55;
 
